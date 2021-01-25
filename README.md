@@ -3,3 +3,4 @@ This repository contains a first implementation of Temporal Attention Modules as
 <h2>Important details</h2>
 To run this, you'll need an installation of pytorch. Furthermore, due to the short longevity of the seminar project and the low emphasis it has on implementation, some of the code in this repository is not as desired. For example, the layers are hardcoded to only work on CUDA devices, and also the amount of Temporal Attention Heads as well as the stabbing depth are hardcoded. Both of these details were hardcoded as these were not the emphasis of the project, and the general robustness of the code in the repo had smaller priority than generally being able to realize what I described in my seminar report.
 Anyway, I hope that, even though there are some minor imperfections, you are still able to appreciate this code.
+ 
